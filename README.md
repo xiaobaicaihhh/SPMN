@@ -18,5 +18,5 @@
 
 4. Model usage
 
-   We would like to thank [huggingface](https://huggingface.co/) for providing and open-sourcing BERT / XLNet code for developing our models.
+   We would like to thank [huggingface](https://huggingface.co/) and [MAG](https://github.com/WasifurRahman/BERT_multimodal_transformer)for providing and open-sourcing BERT / XLNet code for developing our models.
 
