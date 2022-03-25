@@ -15,6 +15,8 @@
    **Training scripts:**
 
    - SPAMN `python main.py --model [pretrained model]`
+   - text pretrained model:bert, xlnet, albert, roberta, electra
+   - speech pretrained model: wavlm
 
 
 4. Model usage
