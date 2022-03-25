@@ -1,6 +1,6 @@
 # Shared-private Memory Networks for Multimodal Sentiment Analysis (SPAMN)
 
-<img src="https://github.com/xiaobaicaihhh/SPAMN/blob/main/img/model.png" width="100px">
+<img src="https://github.com/xiaobaicaihhh/SPAMN/blob/main/img/model.png" width="500px">
 ## Getting started
 
 1. Dependences
