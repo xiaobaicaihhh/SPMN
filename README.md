@@ -14,7 +14,7 @@
 3. Training SPAMN on MOSI
    **Training scripts:**
 
-   - SPAMN `python multimodal_driver.py --model [pretrained model]`
+   - SPAMN `python main.py --model [pretrained model]`
 
 
 4. Model usage
