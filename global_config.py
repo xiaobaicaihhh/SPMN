@@ -1,3 +1,11 @@
+'''
+Author: your name
+Date: 2022-03-25 09:41:43
+LastEditTime: 2022-03-25 10:31:42
+LastEditors: your name
+Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+FilePath: /SPAMN/global_config.py
+'''
 import os
 import torch
 
@@ -37,14 +45,3 @@ BL=11
 
 XLNET_INJECTION_INDEX = 1
 #nohup python multimodal_driver.py --model xlnet-large-cased >> log/01.log 2>&1 &
-#python multimodal_driver.py --model albert-xxlarge-v2
-#python multimodal_driver.py --model google/electra-large-discriminator
-# nohup python multimodal_driver.py --model google/electra-large-discriminator >> log/01.log 2>&1 &
-#python multimodal_driver.py --model bert-base-uncased
-#nohup python multimodal_driver.py --model albert-xxlarge-v2 >> log/01.log 2>&1 &
-#nohup python multimodal_driver.py --model albert-base-v2 >> log/01.log 2>&1 &
-#nohup python multimodal_driver.py --model roberta-base >> log/01.log 2>&1 &
-#nohup python multimodal_driver.py --model roberta-base >> log/01.log 2>&1 &
-#python multimodal_driver.py --model xlnet-base-cased
-
-#python multimodal_driver_joint.py --model roberta-base
